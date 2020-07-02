@@ -1,0 +1,5 @@
+1. It was difficult to find complex json values from it. and i had done it.
+2. Handling Session might be difficult from login to logout.
+3. Somtimes test cases might not be run as per our expection that was i faced difficulty.
+4. Initilly mapping of tables was difficult for me.
+5. Connection Time out of database may be difficult because we need to remove complexity from it.
